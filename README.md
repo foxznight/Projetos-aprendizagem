@@ -1,2 +1,2 @@
-# Projetos-aprendizagem-
-curso
+# Projetos-aprendizagem
+HTML, CSS, JS, React, Node.js
